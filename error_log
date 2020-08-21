@@ -1,0 +1,6 @@
+[18-Mar-2020 07:18:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/he1oa3ps8to7/public_html/recording/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[18-Mar-2020 07:19:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/he1oa3ps8to7/public_html/recording/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[16-May-2020 12:04:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/mw0hxi6lhg3c/public_html/recording/app/Http/Helpers/helpers.php on line 158
+[16-May-2020 12:04:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/mw0hxi6lhg3c/public_html/recording/app/Http/Helpers/helpers.php on line 158
+[17-May-2020 11:15:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\PasswordResetController::resetPassword() in /home/mw0hxi6lhg3c/public_html/recording/app/Http/Controllers/Auth/PasswordResetController.php on line 200
+[17-May-2020 11:15:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\PasswordResetController::resetPassword() in /home/mw0hxi6lhg3c/public_html/recording/app/Http/Controllers/Auth/PasswordResetController.php on line 200
